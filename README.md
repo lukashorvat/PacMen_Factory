@@ -7,6 +7,10 @@ Roadmap:
 
 In the future I would like to improve this program even more and introduce different types of PacMen each time the 'Add PacMan' button is pressed with different characteristics including: different size, different colours and different shapes.
 
+How to download code:  
+
+Please watch the following video for instructions on how to clone this repository to your computer:  https://www.youtube.com/watch?v=O72FWNeO-xY
+
 MIT License
 
 Copyright (c) 2021 Lukas Horvat
